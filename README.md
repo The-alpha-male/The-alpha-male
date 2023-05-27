@@ -2,8 +2,7 @@
 - 👀 I’m interested in Data Science, Software engineering, photography and graphic designs
 - 💻 Computer Science Graduate
 - 🤓 I’m looking to collaborate on any data science and AI project 
-- 📫 How to reach me via linkedIn [Ronny Munene](https://www.linkedin.com/in/ronny-munene/)
--  Twitter https://twitter.com/RonnyMunene4
+
 
 <!---
 The-alpha-male/The-alpha-male is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
