@@ -1,6 +1,6 @@
 ### Hi there 👋, I am Ronny Munene
 #### Data Science and Software engineering
-![Data Science and Software engineering](https://drive.google.com/file/d/1w5q30CcEuZ_KLPifZk2R0ygQGHuUgCxb/view?usp=sharing)
+![Data Science and Software engineering]([https://drive.google.com/file/d/1w5q30CcEuZ_KLPifZk2R0ygQGHuUgCxb/view?usp=sharing](https://github.com/The-alpha-male/The-alpha-male/blob/main/Ronny%20Banner.jpg)
 
 I’m interested in Software Engineering and Data Science. I am a Computer Science graduate who is always willing to learn.
 
