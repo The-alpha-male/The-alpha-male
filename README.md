@@ -1,4 +1,4 @@
-#Hi there 👋
+Hi there 👋
 -
 - I’m @The-alpha-male
 - 👀 I’m interested in Data Science, Software engineering, photography and graphic designs
