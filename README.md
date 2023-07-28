@@ -15,7 +15,5 @@ Skills: PYTHON/ C / HTML / CSS
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-alpha-male)](https://github.com/The-alpha-male/github-readme-stats)<!---
-The-alpha-male/The-alpha-male is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-alpha-male)](https://github.com/The-alpha-male/github-readme-stats)
+
