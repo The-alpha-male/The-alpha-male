@@ -4,7 +4,7 @@
 ## Data Science and Software engineering
 I’m interested in Software Engineering and Data Science. I am a Computer Science graduate who is always willing to learn.
 
-Skills: PYTHON/ C / HTML / CSS
+Skills: PYTHON / C / HTML / CSS
 
 - 🌱 I’m currently learning Software Engineering and Data Science with ALX
 
