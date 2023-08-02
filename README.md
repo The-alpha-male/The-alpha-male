@@ -7,7 +7,7 @@ I’m interested in Software Engineering and Data Science. I am a Computer Scien
 
 Skills: PYTHON / C / HTML / CSS
 
-- 🌱 I’m currently learning Software Engineering and Data Science with ALX # cohort 16
+- 🌱 I’m currently learning Software Engineering and Data Science with ALX #cohort 16
 
 
 
@@ -18,4 +18,7 @@ Skills: PYTHON / C / HTML / CSS
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-alpha-male)](https://github.com/The-alpha-male/github-readme-stats)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-alpha-male&theme=dark&show_icons=true)
 
