@@ -17,7 +17,7 @@ Skills: PYTHON / C / HTML / CSS
 
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-alpha-male)](https://github.com/The-alpha-male/github-readme-stats)
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-alpha-male&theme=dark&show_icons=true)
