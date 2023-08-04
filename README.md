@@ -1,5 +1,5 @@
 ![Data Science and Software engineering](https://github.com/The-alpha-male/The-alpha-male/blob/main/Ronny%20Banner.jpg)
-https://github.com/The-alpha-male/The-alpha-male/blob/main/giphy.gif?raw=true
+
 # Hi there 👋, I am Ronny Munene
 ## Data Science and Software engineering
 
