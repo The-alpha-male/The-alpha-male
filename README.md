@@ -9,10 +9,12 @@ Skills: PYTHON / C / HTML / CSS
 
 - 🌱 I’m currently learning Software Engineering and Data Science with ALX #cohort 16
 
-https://github.com/The-alpha-male/The-alpha-male/blob/main/giphy.gif
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/The-alpha-male)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/ronny-munene/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/RonnyMunene4)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://flowcv.me/ronnymunene)  
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-alpha-male&theme=dark&show_icons=true)
+
+https://github.com/The-alpha-male/The-alpha-male/blob/main/giphy.gif?raw=true
 
