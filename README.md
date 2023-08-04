@@ -1,5 +1,5 @@
 ![Data Science and Software engineering](https://github.com/The-alpha-male/The-alpha-male/blob/main/Ronny%20Banner.jpg)
-
+https://github.com/The-alpha-male/The-alpha-male/blob/main/giphy.gif?raw=true
 # Hi there 👋, I am Ronny Munene
 ## Data Science and Software engineering
 
@@ -16,5 +16,4 @@ Skills: PYTHON / C / HTML / CSS
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-alpha-male&theme=dark&show_icons=true)
 
-https://github.com/The-alpha-male/The-alpha-male/blob/main/giphy.gif?raw=true
 
