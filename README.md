@@ -12,9 +12,9 @@ Skills: PYTHON / C / HTML / CSS
 - 🎨UI/UX designer
 
 
-<img align="left" width="467px" height="195px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="left" width="467px" height="195px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 
-<br /> <br />
+ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-alpha-male&theme=dark&show_icons=true)
 
