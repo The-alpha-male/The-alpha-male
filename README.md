@@ -8,7 +8,7 @@ I’m interested in Software Engineering and Data Science. I am a Computer Scien
 
 Skills: PYTHON / C / HTML / CSS
 
-- 🌱 I’m currently learning Software Engineering and Data Science with ALX #cohort 16
+- 🌱 I’m currently learning Software Engineering and Data Science with ALX
 - 🎨 UI/UX designer
 
 
