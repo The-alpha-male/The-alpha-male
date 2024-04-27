@@ -12,12 +12,7 @@ I am interested in Software Engineering and Data Science. I am a Computer Scienc
 
 <img align="left" width="467px" height="195px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<br> </br>
-<br> </br>
-<br> </br>
-<br> </br>
-<br> </br>
-<br> </br><br> </br>
+<br> </br><br> </br><br> </br><br> </br>
 
 <h3 align="left">Languages and Tools:</h3>
 
