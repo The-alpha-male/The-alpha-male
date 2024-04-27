@@ -1,7 +1,7 @@
 ![Data Science and Software engineering](https://github.com/The-alpha-male/The-alpha-male/blob/main/Ronny%20Banner.jpg)
 
 # Hi there 👋, I am Ronny Munene
-## Data Science and Software engineering.
+## Data Science and Software Engineering.
 
 I am interested in Software Engineering and Data Science. I am a Computer Science graduate who is always willing to learn
 
@@ -12,7 +12,7 @@ I am interested in Software Engineering and Data Science. I am a Computer Scienc
 
 <img align="left" width="467px" height="195px" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<br> </br><br> </br><br> </br><br> </br>
+<br> </br><br> </br><br> </br><br> </br><br> </br>
 <p> </p>
 
 <h3 align="left">Languages and Tools:</h3>
