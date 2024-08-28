@@ -5,8 +5,7 @@ I![Data Science and Software engineering](https://github.com/The-alpha-male/The-
 
 I am interested in Software Engineering and Data Science. I am a Computer Science graduate who is always willing to learn. 
 
-- 🌱 I’m currently learning Software Engineering and Data Science with ALX Africa
-- 🎨 UI/UX designer
+-  ALX Software Engineering Program Graduate 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=The-alpha-male&label=Profile%20views&color=0e75b6&style=flat" alt="The-alpha-male" /> </p>
 
