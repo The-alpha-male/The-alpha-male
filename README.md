@@ -3,7 +3,7 @@ I![Data Science and Software engineering](https://github.com/The-alpha-male/The-
 # Hi there 👋, I am Ronny Munene
 ## Data Science and Software Engineering.
 
-I am interested in Software Engineering and Data Science. I am a Computer Science graduate who is always willing to learn. 
+I am a backend software engineer and a data scientist with a flair for it. NEVER STOP LEARNING
 
 -  ALX Software Engineering Program Graduate 
 
