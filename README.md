@@ -3,7 +3,7 @@
 # Hi there 👋, I am Ronny Munene
 ## Data Science and Software Engineering.
 
-I am a backend software engineer and a data scientist with a flair for it. NEVER STOP LEARNING
+Backend software engineer and Data scientist with a flair for it. NEVER STOP LEARNING
 
 -  ALX Software Engineering Program Graduate 
 
